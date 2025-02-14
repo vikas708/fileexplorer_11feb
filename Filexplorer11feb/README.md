@@ -75,3 +75,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 npm install
 npm install react@18 react-dom@18
 npm start
+Rename also workon key press
